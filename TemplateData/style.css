@@ -1,0 +1,93 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#unity-container {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+#unity-canvas {
+    width: 100%;
+    height: 100%;
+    background: #231F20
+}
+
+/* Center loading bar */
+#unity-loading-bar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+    flex-direction: column;
+    align-items: center;
+}
+
+#unity-logo {
+    display: block;
+    width: 220px;
+    height: 186px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    background: url('breakfree/logo.png') no-repeat center;
+    background-size: contain;
+}
+
+#unity-progress-bar-empty {
+    margin-left: auto;
+    margin-right: auto;
+    width: 340px;
+    height: 36px;
+    margin-top: 10px;
+    background: url('breakfree/LoadingBackground.png') no-repeat center;
+    background-size: contain;
+    border-radius: 18px;
+    position: relative;
+    overflow: hidden;
+}
+
+#unity-progress-bar-full {
+    width: 0%;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    background: url('breakfree/LoadingFill.png') no-repeat left center;
+    background-size: cover;
+    border-radius: 13px;
+    transition: width 0.5s cubic-bezier(.29,.82,.43,.99);
+    z-index: 1;
+}
+
+#loading-text {
+    position: absolute;
+    left: 18px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Baloo2;
+    text-shadow: 0 2px 12px #000a;
+    pointer-events: none;
+    letter-spacing: 1px;
+    z-index: 2;
+    text-align: left;
+    user-select: none;
+}
+
+#unity-warning {
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    transform: translate(-50%);
+    background: white;
+    padding: 10px;
+    display: none;
+    z-index: 20;
+}

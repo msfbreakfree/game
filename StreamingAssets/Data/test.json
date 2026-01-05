@@ -1,0 +1,52 @@
+{
+  "scene": {
+    "description": "Không gian sân vườn ban ngày với ánh sáng tự nhiên dịu nhẹ, cây cối xanh tươi và bầu trời trong xanh.",
+    "environment": "Không gian ngoài trời, sân vườn rộng rãi với thảm cỏ xanh mướt, hoa lá rực rỡ và vài bụi cây nhỏ.",
+    "time_of_day": "Buổi sáng hoặc đầu chiều với ánh sáng mặt trời nhẹ nhàng.",
+    "weather": "Trời quang đãng, không mây, ánh sáng tự nhiên tươi sáng.",
+    "mood": "Vẻ tự tin e thẹn pha chút tinh nghịch; phong cách 'Gamseong' ấm cúng."
+  },
+  "aesthetic": {
+    "style": "Ảnh chân dung phong cách điện ảnh, lấy cảm hứng từ phim Hàn Quốc với tông màu ấm áp và ánh sáng mềm mại.",
+    "look": "tông màu film nhẹ nhàng, màu sắc tự nhiên với độ tương phản vừa phải; giữ kết cấu da thật và chi tiết vải rõ nét.",
+    "lighting": {
+      "description": "ánh sáng tự nhiên từ mặt trời, không quá gắt; sử dụng phản quang mềm để làm sáng khuôn mặt và giảm bóng tối.",
+      "direction": "ánh sáng từ phía trước và hơi chếch bên, tạo hiệu ứng ánh sáng đều trên khuôn mặt và cơ thể."
+    }
+  },
+  "subject": {
+    "demographics": {
+      "ethnicity": "Châu Âu cụ thể là Pháp",
+      "age": "từ 20 đến 25",
+      "build": "Rất mảnh mai, nhỏ nhắn với vòng eo thon gọn."
+    },
+    "appearance": {
+      "hair": "Tóc búi cao hơi rối, có mái bằng và vài lọn tóc buông nhẹ hai bên.",
+      "skin": "Làn da tự nhiên, bóng mịn, giữ nguyên kết cấu da thật."
+    },
+    "pose": {
+      "type": "tạo dáng chân dung, chụp ngoài trời với ánh sáng tự nhiên.",
+      "action": "Mỉm cười nhẹ với môi khép hờ; tay trái khẽ nâng viền áo nhún;",
+      "framing": "Khung hình từ thắt lưng trở lên (tỉ lệ dọc 3:4); góc máy hơi chếch xuống; lộ nhẹ vùng eo."
+    },
+    "wardrobe": {
+      "top": "áo của nhân vật Frieren",
+      "bottom": "quần của nhân vật Frieren"
+    },
+    "accessories": {
+      "jewelry": "Vòng tay mảnh, nhẫn và khuyên tai tròn nhỏ thanh lịch."
+    }
+  },
+  "props_in_scene": {
+    "background": "cây cối xanh tươi, bầu trời trong xanh, thảm cỏ và hoa lá rực rỡ.",
+    "foreground": "không có vật thể nào trong tiền cảnh.",
+    "counter": "Các vật thể không cần thiết nên được loại bỏ để giữ sự tập trung vào nhân vật."
+  },
+  "camera_technical": {
+    "requirements": "giữ độ phân giải cao, không bị nhiễu hạt; màu sắc trung thực, không bị ám màu; không bị méo hình hoặc viền tối.",
+    "capture": "Ống kính góc rộng điện thoại ~24–26mm, khẩu độ f/1.8, ISO ~250, tốc độ 1/125s, cân bằng trắng 4200–4400K.",
+    "composition": "Nhân vật ở giữa khung hình, hơi nghiêng nhẹ; đảm bảo chi tiết chất liệu vải rõ;tưoàn cảnh sân vườn hài hòa, không bị rối mắt.",
+    "retouching": "Chỉ xử lý nhẹ khuyết điểm nhỏ; giữ nguyên nếp vải và sợi lông mịn; tránh viền sáng (halo).",
+    "avoid": "Cửa hoặc gương bị méo, viền tối mạnh, làm nét quá mức, làm mịn da kiểu hoạt hình, chèn chữ hoặc watermark."
+  }
+}

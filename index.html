@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity Web Player | BreakFree</title>
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="manifest" href="manifest.webmanifest">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-M8FF5QZD');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+<div id="unity-container">
+    <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>
+    <div id="unity-loading-bar">
+        <div id="unity-logo" style="background-image:url('TemplateData/breakfree/logo.png'); 
+                                 background-size:contain; 
+                                 background-repeat:no-repeat; 
+                                 background-position:center; 
+                                 width: 154px; 
+                                 height: 130px;">
+        </div>
+    </div>
+    <div id="unity-warning"> </div>
+</div>
+<!-- 📊 Stats overlay -->
+<div id="net-stats" style="
+    position: fixed; bottom: 10px; left: 10px;
+    background: rgba(0,0,0,0.7); color: #fff;
+    padding: 6px 10px; font-family: monospace;
+    font-size: 13px; border-radius: 6px;">
+    Loading stats...
+</div>
+<!-- 📊 End stats overlay -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M8FF5QZD"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GR6XBBVR7C"></script>
+<!-- End Google Tag Manager -->
+<script>
+    window.addEventListener("load", function () {
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("ServiceWorker.js");
+        }
+    });
+
+    var container = document.querySelector("#unity-container");
+    var canvas = document.querySelector("#unity-canvas");
+    var loadingBar = document.querySelector("#unity-loading-bar");
+    var progressBarFull = document.querySelector("#unity-progress-bar-full");
+    var warningBanner = document.querySelector("#unity-warning");
+    var logo = document.getElementById("unity-logo");
+
+    function rotateLogoIfPortrait() {
+        if (window.innerHeight > window.innerWidth) {
+            logo.style.transform = "rotate(90deg)";
+            logo.style.transformOrigin = "center center";
+        } else {
+            logo.style.transform = "rotate(0deg)";
+        }
+    }
+
+    window.addEventListener("load", rotateLogoIfPortrait);
+    window.addEventListener("resize", rotateLogoIfPortrait);
+    window.dataLayer = window.dataLayer || [];
+    <!-- Google Tag Manager (noscript) -->
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GR6XBBVR7C');
+    <!-- Google Tag Manager (noscript) -->
+    function unityShowBanner(msg, type) {
+        function updateBannerVisibility() {
+            warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+        }
+        var div = document.createElement('div');
+        div.innerHTML = msg;
+        warningBanner.appendChild(div);
+        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        else {
+            if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+            setTimeout(function() {
+                warningBanner.removeChild(div);
+                updateBannerVisibility();
+            }, 5000);
+        }
+        updateBannerVisibility();
+    }
+    var buildUrl = "Build";
+    var loaderUrl = buildUrl + "/b541c279533ee6969d0570a93e71c646.loader.js";
+    var config = {
+        arguments: [],
+        dataUrl: buildUrl + "/de8b54e940656505b9dd0ae7ea537251.data.unityweb",
+        frameworkUrl: buildUrl + "/9aceea02eb962d04dfa9049ab73721bd.framework.js.unityweb",
+        codeUrl: buildUrl + "/208a279d5bc23090e6b064c5911f42ab.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "SwagSoft",
+    productName: "BreakFree",
+    productVersion: "202601051052",
+    showBanner: unityShowBanner,
+    };
+
+    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
+    }
+
+    // canvas.style.background = "url('TemplateData/breakfree/background.png') center / cover";
+    canvas.style.background = "black";
+    loadingBar.style.display = "block";
+    var script = document.createElement("script");
+    script.src = loaderUrl;
+    script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+        }).then((unityInstance) => {
+            loadingBar.style.display = "none";
+        }).catch((message) => {
+            alert(message);
+        });
+    };
+    document.body.appendChild(script);
+
+    // 📊 Stats realtime updater
+    function updateNetStats() {
+        const statsEl = document.getElementById("net-stats");
+        const entries = performance.getEntriesByType("resource");
+
+        let totalTransferred = 0;
+        let totalResources = 0;
+        let totalRequests = entries.length;
+        let totalTime = 0;
+
+        for (let e of entries) {
+            totalTransferred += e.transferSize || 0;
+            totalResources += e.encodedBodySize || 0;
+            totalTime = Math.max(totalTime, e.responseEnd);
+        }
+
+        let mbTransferred = (totalTransferred / 1024 / 1024).toFixed(2);
+        let mbResources = (totalResources / 1024 / 1024).toFixed(2);
+
+        // statsEl.innerText =
+        //     `${totalRequests} requests | ${mbTransferred} MB transferred | ${mbResources} MB resources | Time: ${(totalTime/1000).toFixed(2)}s`;
+        statsEl.innerText =
+            `${mbResources} MB resources | Time: ${(totalTime/1000).toFixed(2)}s`;
+
+        return totalTime;
+    }
+
+    // Interval update liên tục mỗi 5ms
+    let lastTime = 0;
+    let stableCount = 0;
+    let lastCheck = performance.now();
+
+    const interval = setInterval(() => {
+        const timeNow = updateNetStats();
+        const now = performance.now();
+        if (now - lastCheck >= 1000) {
+            lastCheck = now;
+
+            if (timeNow === lastTime) {
+                stableCount++;
+                console.log(`⏸️ Time không đổi (${stableCount}/3)`);
+
+                if (stableCount >= 2) {
+                    clearInterval(interval);
+                    setTimeout(() => {
+                        updateNetStats();
+                        console.log("✅ Stats final update done.");
+                        setTimeout(() => {
+                            const statsEl = document.getElementById("net-stats");
+                            statsEl.style.transition = "opacity 1s ease";
+                            statsEl.style.opacity = "0";
+                            setTimeout(() => statsEl.style.display = "none", 1000);
+                        }, 200);
+                    }, 200);
+                }
+            } else {
+                stableCount = 0;
+                lastTime = timeNow;
+            }
+        }
+    }, 5);
+
+</script>
+</body>
+</html>

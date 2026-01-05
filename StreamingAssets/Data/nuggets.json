@@ -1,0 +1,716 @@
+[
+  {
+    "Category": "Spotting Red Flags",
+    "id": "1",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Constant criticism isn’t love — it’s control."
+      },
+      {
+        "id": "2",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Love shouldn’t leave you feeling small or scared."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Frequent guilt-tripping signals emotional manipulation."
+      },
+      {
+        "id": "4",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "If they monitor your phone, it’s not trust."
+      },
+      {
+        "id": "5",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Isolation from friends isn't caring — it's controlling."
+      },
+      {
+        "id": "6",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Being blamed for everything isn’t normal."
+      },
+      {
+        "id": "7",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Mood swings used to control are unhealthy."
+      },
+      {
+        "id": "8",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Disagreements happen. Respect and listen to one another's views."
+      },
+      {
+        "id": "9",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "In healthy relationships, there is no room for threats."
+      },
+      {
+        "id": "10",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Spotting Red Flags",
+        "CategoryId": "1",
+        "Tip": "Love shouldn’t hurt — physically or emotionally."
+      }
+    ]
+  },
+  {
+    "Category": "Understanding the Damage",
+    "id": "2",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Toxic relationships drain your confidence and identity."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Staying can hurt your mental health long-term."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Abuse often escalates, even if it starts small."
+      },
+      {
+        "id": "4",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Love shouldn't make you feel trapped."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Silence doesn’t fix emotional harm."
+      },
+      {
+        "id": "6",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Your self-worth can erode over time."
+      },
+      {
+        "id": "7",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Normalising pain is not normal."
+      },
+      {
+        "id": "8",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Toxicity can affect school, work, and friendships."
+      },
+      {
+        "id": "9",
+        "PlayerID": "Emma",
+        "NuggetStatus": "nuggets",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Staying in a toxic relationship for 'love' can hurt you more than help you."
+      },
+      {
+        "id": "10",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "Understanding the Damage",
+        "CategoryId": "2",
+        "Tip": "Walking away from toxic relationships can be the first step to healing yourself."
+      }
+    ]
+  },
+  {
+    "Category": "Being a Supportive Friend",
+    "id": "3",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "A simple 'I'm here for you' can mean a lot."
+      },
+      {
+        "id": "2",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Support and let them know you're here to help."
+      },
+      {
+        "id": "3",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Check in regularly even if they push you away."
+      },
+      {
+        "id": "4",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Say it clearly: 'You don't deserve to be treated this way."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Help them list what a healthy relationship looks like."
+      },
+      {
+        "id": "6",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Encourage them to write out how they feel."
+      },
+      {
+        "id": "7",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Sometimes, they just need you to listen - not to fix and not to judge."
+      },
+      {
+        "id": "8",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Don’t criticise their partner — support them instead."
+      },
+      {
+        "id": "9",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "Say, “You’re strong for noticing something is wrong.”"
+      },
+      {
+        "id": "10",
+        "PlayerID": "Debbie",
+        "NuggetStatus": "nuggets",
+        "Category": "Being a Supportive Friend",
+        "CategoryId": "3",
+        "Tip": "A safe place can mean everything. Let them know yours is open."
+      }
+    ]
+  },
+  {
+    "Category": "For Someone in a Toxic Relationship",
+    "id": "4",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Save helpline numbers discreetly in your phone."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Need help? Reach out to a teacher, counsellor, or trusted adult."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Planning ahead can help - who to call, where to go, what to do if you need help."
+      },
+      {
+        "id": "4",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Set one small boundary today — then build from there."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Write down three things you’ve done for yourself today."
+      },
+      {
+        "id": "6",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Block their number if you feel unsafe."
+      },
+      {
+        "id": "7",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "If you feel unsafe, bring someone along or avoid meeting the person."
+      },
+      {
+        "id": "8",
+        "PlayerID": "None",
+        "NuggetStatus": "nnugets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Practice saying: ‘That makes me uncomfortable.’ It’s okay to set boundaries."
+      },
+      {
+        "id": "9",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Keep emergency contacts informed about your situation."
+      },
+      {
+        "id": "10",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Someone in a Toxic Relationship",
+        "CategoryId": "4",
+        "Tip": "Ask for help early — not when things explode."
+      }
+    ]
+  },
+  {
+    "Category": "Empowerment and Getting Help",
+    "id": "5",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Call AWARE’s helpline if you feel unsure or unsafe."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Visit a school counsellor for private support."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Role-play conversations with a trusted friend beforehand."
+      },
+      {
+        "id": "4",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Your safety is important. Always tell someone where you're going."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Take screenshots of abusive messages for your own records."
+      },
+      {
+        "id": "6",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Emergency funds can make a difference in your options to leave"
+      },
+      {
+        "id": "7",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Speak to someone who's left a toxic relationship before."
+      },
+      {
+        "id": "8",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Join a youth support group to feel less alone."
+      },
+      {
+        "id": "9",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Watch healthy relationship videos — learn what’s respectful."
+      },
+      {
+        "id": "10",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Choose you — every day, every time."
+      },
+      {
+        "id": "11",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "Empowerment and Getting Help",
+        "CategoryId": "5",
+        "Tip": "Call NAVH's helpline if you feel unsure or unsafe at 1800-777-0000"
+      }
+    ]
+  },
+  {
+    "Category": "For Those Who May Be Causing Harm",
+    "id": "6",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Give your partner space to say no without fear."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Let them make decisions without pressuring them."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "remove",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Stop interrupting — let them finish their thoughts fully."
+      },
+      {
+        "id": "4",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Apologise when your words or actions hurt them."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Listen to their needs without getting defensive."
+      },
+      {
+        "id": "6",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Respect their personal space and friendships outside the relationship."
+      },
+      {
+        "id": "7",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Let them express disagreement without taking it personally."
+      },
+      {
+        "id": "8",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Support their goals, even if they’re different from yours."
+      },
+      {
+        "id": "9",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Trust means respecting each other's privacy."
+      },
+      {
+        "id": "10",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Speak calmly — don’t raise your voice to intimidate."
+      },
+      {
+        "id": "11",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Accept “no” without trying to change their mind."
+      },
+      {
+        "id": "12",
+        "PlayerID": "None",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Use kind words, even during disagreements."
+      },
+      {
+        "id": "13",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Don't guilt-trip or gaslight them. That's emotional manipulation."
+      },
+      {
+        "id": "14",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Take responsibility for your mistakes without blaming them."
+      },
+      {
+        "id": "15",
+        "PlayerID": "Aaron",
+        "NuggetStatus": "nuggets",
+        "Category": "For Those Who May Be Causing Harm",
+        "CategoryId": "6",
+        "Tip": "Treat them as an equal, not someone to control."
+      }
+    ]
+  },
+  {
+    "Category": "Dating Violence Awareness",
+    "id": "7",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Dating Violence Awareness",
+        "CategoryId": "7",
+        "Tip": "Violence in relationships cannot be condoned, and it is not a private matter."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Dating Violence Awareness",
+        "CategoryId": "7",
+        "Tip": "Violence could affect anyone, from children to the elderly."
+      }
+    ]
+  },
+  {
+    "Category": "Understanding the damage",
+    "id": "8",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Understanding the damage",
+        "CategoryId": "8",
+        "Tip": "Unexplained wounds and bruises on the arms/body could be a sign of violence in relationship."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Understanding the damage",
+        "CategoryId": "8",
+        "Tip": "Significant changes in mood e.g. depression, trauma and anxiety could be a symptom of violence in a relationship"
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Understanding the damage",
+        "CategoryId": "8",
+        "Tip": "Signs of constant hunger, dehydration, malnourishment, poor personal hygiene and untreated medical conditions could be symptoms of violence in a relationship."
+      },
+      {
+        "id": "4",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Understanding the damage",
+        "CategoryId": "8",
+        "Tip": "A sign of violence in relationship could be sudden intense fear and avoidance of a particular person, place or object."
+      }
+    ]
+  },
+  {
+    "Category": "Being a supportive friend",
+    "id": "9",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Being a supportive friend",
+        "CategoryId": "9",
+        "Tip": "Everyone has a responsibility to help their family, friends and loved ones who are experiencing violence in their lives."
+      }
+    ]
+  },
+  {
+    "Category": "Empowerment and getting help",
+    "id": "10",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Empowerment and getting help",
+        "CategoryId": "10",
+        "Tip": "The reporting of abuse does not worsen after your intervention and does not break up families. It can save lives and families. "
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Empowerment and getting help",
+        "CategoryId": "10",
+        "Tip": "You can call the National Anti-Violence and Sexual Harassment Helpline at 1800 777 0000."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "Empowerment and getting help",
+        "CategoryId": "10",
+        "Tip": "You can call the police at 999 or SMS 70999 for emergencies."
+      }
+    ]
+  },
+  {
+    "Category": "For those who may be causing harm",
+    "id": "11",
+    "NuggetInfos": [
+      {
+        "id": "1",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "For those who may be causing harm",
+        "CategoryId": "11",
+        "Tip": "Respect is valuing each other's opinions."
+      },
+      {
+        "id": "2",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "For those who may be causing harm",
+        "CategoryId": "11",
+        "Tip": "Respect is not forcing your views and wishes on each other."
+      },
+      {
+        "id": "3",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "For those who may be causing harm",
+        "CategoryId": "11",
+        "Tip": "Respect is making decisions together."
+      },
+      {
+        "id": "4",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "For those who may be causing harm",
+        "CategoryId": "11",
+        "Tip": "Respect is listening and being patient, even during disagreements."
+      },
+      {
+        "id": "5",
+        "PlayerID": "None",
+        "NuggetStatus": "loading",
+        "Category": "For those who may be causing harm",
+        "CategoryId": "11",
+        "Tip": "Respect is not hurting one another during conflicts."
+      }
+    ]
+  }
+]

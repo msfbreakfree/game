@@ -1,0 +1,2226 @@
+[
+  {
+    "id": "Debbie",
+    "scenario": "Alternate_Scenario",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The party was just last week. You told yourself she just needed space.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Today, your phone keeps buzzing between classes. A message, and then another.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It was Emma's mother, telling you her daughter is in the hospital...",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You immediately thought of Aaron, and how helpless she looked that night.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your heart drops. You don’t think, you just run down the hall.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You knew something was wrong. Maybe not everything. But enough.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And still, you looked away. Was this your fault?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "finish",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The ones we love might be suffering in silence.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "That’s why we should always keep a lookout, so they feel seen, safe, and never alone.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Intro",
+    "narrativeConversations": [
+      {
+        "playerID": 0,
+        "narrative": "It's almost your birthday and you're deciding how to spend your day.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "After a brutal week of group projects, you finally peel away from campus.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "The bus ride home? A rare moment of peace.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Sun on your face. No notifications. Just... quiet.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You cut through the park until the shouting snaps you back.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You freeze.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "That wasn’t just drama. That was heat.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You squint and you spot a couple up ahead.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It’s Emma.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And Aaron.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Not again.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario1_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You pause.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "They’re clearly arguing... But whatever.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It's not your problem, and nothing good ever came out from getting involved in couple drama anyway.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You turn away and keep walking.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario1_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 0,
+        "narrative": "Emma? What's going on? Is everything alright here?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma straightens, arms crossed. Aaron watches her intently.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Everything's fine Debbie. There's nothing wrong.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You pause at the intensity of his voice. You look at Emma.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "So... Em, how's the project coming along?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Uh... Okay. Still figuring it out. I’ll sort it once I’m done with the data.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Cool. But if you need help, or anything, you know where to find me.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario2",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "It's a slow Saturday morning - but not for you. Music’s playing and your mind's busy with planning for your birthday party.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "This is going to be a good one.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You’re scrolling through Instagram when something makes you stop. There it was – a green ring, close friends.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It’s Emma... Your mind brings you back to the day before, and you quickly tap the screen.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "There were screenshots of Aaron calling her names. You want to scream.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario2_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You see the story. You sigh.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Relationship drama again. You’ve seen this before, and you’re not about to get dragged in.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You ignore the post. But out of habit, or maybe guilt, you shoot Emma a text, nothing about what you saw.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "You still coming to my party?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Wouldn’t miss it.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You close the chat.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "That’s all you need to know.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario2_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 0,
+        "narrative": "Hey, saw your story. This is getting serious. Are you sure you're okay?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Silence.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Em, talk to me. First the park, and now this? What's next? I'm very worried.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Silence.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You sigh.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Well... Are you still coming to my party?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Yes...",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "After the phone call, you snap a screenshot and text Aaron. “What the hell is this?”",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario3",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The party’s in full swing—music thumping, voices loud, snacks half-devoured.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You pause, soaking it in. Everyone’s here. Everything’s perfect.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Almost.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your eyes land on Emma. She’s sitting alone, tucked into the corner of the room.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Alone in a corner, lit only by her phone. She’s not smiling. Not scrolling. Just... staring. Like she’s not really here.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Whatever happened, she shouldn’t be this alone.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario3_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You tell yourself that today’s your big day, and honestly, you’ve earned a break from other people’s mess.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You push the thought aside and let yourself loose in your party.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Everything feels perfect... Or close enough. Perhaps this is better, Emma looks like she needs the space after all.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario3_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You walk over and crouch beside Emma, keeping your voice low.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "You seem off tonight.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(mumbling): It’s nothing... Just tracking a delivery.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "What delivery? Show me.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma hesitates. Her eyes drop. Then a sigh.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Okay. I lied. I just didn’t want to ruin your night.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "(gently): Em, you’re more important than my birthday. You can tell me anything.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Her tired eyes meet yours, softening.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I will. Just... not today. But thanks.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You nod, pull her into a quick hug, and head back into the party. Still, the worry sticks. You glance back through the night — until you realise... She’s gone.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario4",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The party fades behind you, just leftover music in your ears.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You’re walking home, tired but content, when a small sound stops you. A choked breath? A sob?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It’s coming from the stairwell near the lift.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You follow it. Then you see her. Emma.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Curled on the steps, arms wrapped around her knees, trembling.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your heart softens.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario4_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You freeze. You’re not sure if you’re supposed to be here.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stay still, hidden in the shadows near the lift. Maybe she wants to be alone... Matters of the heart can be complicated after all.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You wait for a beat longer, then walk away.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Later that night, her Close Friends story pops up — A dim photo of the stairwell, captioned:",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "\"I am surrounded by a sea of people, but I feel so alone...\"",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stare at the screen.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario4_Negative_1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The guilt hits hard. You reply to the IG story.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "I'm sorry... I should have said something. I was afraid of overstepping and wanted to give you space.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "A pause... Then, your phone buzzes with a text.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Please help me... I'm hiding in my room. Aaron is here.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You've made up your mind. No hesitations this time. You dial for the police and dash to her place.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario4_Negative_2",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The gate's open. You slip inside and that's when you heard it.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "EMMA! OPEN THE DAMN DOOR!!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You step forward, ready to act. But the sirens arrive first. In a flash, two officers storm in and pin him down.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You let out a shaky breath and you hear Emma's door creaking open.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Emma... It's over. You're safe now.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario4_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 0,
+        "narrative": "Emma?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She jumps with fear, relaxing only when she sees you. You sit beside her and wrap an arm gently around her.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "I was looking for you. What happened?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She doesn’t answer right away. Then brushes her hair back and shows the bruise on her cheek.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "He got so angry... I don’t know what to do... \\nYou steady yourself.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "It’s not safe here. Text your parents you’re staying with me tonight. We’ll talk more there.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario5",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Emma’s curled up on your bed, hugging a cushion, eyes on the floor. She takes a shaky breath.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Aaron’s been controlling me for months.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Always asking where I am, who I’m with... If I don’t reply, he just keeps calling. I can’t breathe unless I answer.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She rubs her eyes, holding back tears.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I thought it would stop. I thought things were getting better. But... He’s hit me before. I feel stuck, Debbie. I don’t know what to do anymore.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Her words hit you hard.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Debbie",
+    "scenario": "Scenario5_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You sit silently, her words still echoing in your head.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Enough is enough.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You reach for your phone and search for the NAVH number. You turn the screen towards her.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She stares it and blinks, before looking back at you. Her fingers shake as she takes the phone.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Hello? I... I want to make a report.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stay beside her. As she speaks, voice trembling but steadying, you realise, this is the first time she’s really being heard.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Alternate_Scenario",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Because I chose to be alone, now I'm on the floor...",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Everything hurts. You don't even remember what started it. You stayed quiet and didn't ask for help.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You mistake was thinking that you could take it. And now — this.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "No one’s coming.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Deep down, you’re afraid — panicking, even.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Is this what it’s going to be now?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Will this cycle of violence come again?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "finish",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Abuse in a relationship is never something you should bear in silence.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Remember, you don’t have to face this alone.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It's okay to seek help, and you deserve support.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Intro",
+    "narrativeConversations": [
+      {
+        "playerID": 1,
+        "narrative": "School's been busy lately. You're hoping for a quiet day to unwind.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You’re walking through the park when your boyfriend, Aaron suddenly grabs your arm.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Where were you last night?!!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You try to explain, training ran late all week. But he cuts you off, voice rising. He starts accusing you and calling you names.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your heart races and you glance around. There are people nearby, but no one seems to care.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You spot Debbie. Will she say something?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario1_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Debbie’s voice cuts in, trying to lighten the tension.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Hey... Training’s been intense, right? Nationals coming up?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You force a smile.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Yeah. Just a long day, that’s all.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Aaron stares, jaw tight. You feel his eyes on you, burning.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Debbie looks between the two of you. She's uncertain, maybe even worried.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But you don’t say anything. And as she slowly backs off, the silence feels heavier than before.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(internal): If I can’t say it now... When will I?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario1_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You feel Aaron's eyes burning into you. He shouts again.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "So why didn't you have dinner with me??!!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I had floorball training. Nationals are coming. It’s been a tough week.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "(snapping): It’s not just tonight. You’ve been ghosting me for two weeks!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your heart pounds, you glance at Debbie.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Before you can answer, Debbie steps in.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She moves forward, her steps steady.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "That's not fair. Em’s been slammed with training and projects. You know that.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "He glares at you, fists clenched.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Fine. Whatever. Aren't you heading home? I'll walk with you.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "(firmly): We've got to talk through something for class, you go ahead first.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Aaron scoffs and turns away.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario2",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "The fight in the park is still fresh. Now, his texts won’t stop. It was sharp and cruel, the kind that stick to your skin. You try to hold it in, but the tears come anyway.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You try to hold it in, but the tears come anyway.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You want to talk to someone. But who would understand? Who would even care?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Without thinking, you post a screenshot to your Close Friends list.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then... you wait.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your phone buzzes. It’s Debbie.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario2_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "She saw what happened and still said nothing. Why should I expect her to care now? Maybe she didn’t know what to do. But still... She looked away.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Besides, she doesn’t really know Aaron. It’s complicated. People should stay out of what they don’t understand.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your phone buzzes again. This time it’s a text message.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "“Are you still coming to my party?”",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stare at it.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Will you?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario2_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You hesitate, but you pick up.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Em, I saw the post. That’s not okay. No one should talk to you like that.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "It’s... not the first time.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "There’s a pause, you can hear your friend catching her breath.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Shit. Em, this isn’t love. He’s not supposed to make you feel this small.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I know... But I still love him.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "I get it. But maybe just... take a step back. Come to my party. Be around people who don’t make you feel like this.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Yeah. I’ll be there.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You hang up.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario3",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You’re at the party. The music’s loud, and people are laughing. For a while, you feel normal.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then you check your phone...",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Five missed calls and seven messages. All from Aaron.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your chest tightens. The room suddenly feels too loud. You step outside, trying to breathe. Debbie follows you.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Hey... What’s going on?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario3_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You glance at her. Part of you wants to talk.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But the rest remembers the park.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Remembers the silence",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Nothing's wrong... Just checking a delivery.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Debbie stares at you, not believing a word you're saying.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You turn away and check your phone.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Ten missed calls. Twenty messages.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And for the second time that week, you feel completely alone.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario3_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "After you confide in Debbie, she pulls you into a tight hug.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Put your phone away, okay? Stay with me tonight.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You nod, but your stomach twists. You know what happens when you ignore him.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Still, you don’t want to ruin Debbie’s party.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Later...you slip away and check your phone.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Ten missed calls. Twenty messages.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You recognise this pattern, and you’re aware of what’s coming next. The only way to stop... is to call him back. But if he hears the background music, he’ll flip.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario4",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You slip out of the party without saying goodbye. You feel guilty, but you know Debbie wouldn’t let you do what you’re about to do now.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You rush through the void deck. If you just call him, maybe he’l calm down. Maybe... It won’t get worse.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then, a hand grabs your arm.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Where were you?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(shaking): Debbie’s party...",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Why didn’t you pick up?! Were you having fun while I waited like an idiot?!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You take a deep breath, finding the courage to say what comes next.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario4_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You know what you should say — that he needs help, that you need help, that love shouldn’t feel like this.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But the words catch in your throat. Your courage falters.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "You ignore me, and now you just stand there acting like the victim? Pathetic.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You try to steady yourself, to speak... but your lips stay sealed.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "His words slice through you. You take a breath. And then it happens.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "The slap is sudden. Stinging.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 2,
+        "narrative": "(coldly): You’re really pathetic, you know that? Maybe this’ll remind you to listen to me next time.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You don’t move. You don’t cry.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You just stand there, trembling. Not from the slap, but from the way his words sink deep.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario4_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You can still hear Aaron’s breath in your head. You’re stunned you actually said it.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Aaron... This is not how a relationship should be... You and I need help.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And then somehow, your legs found the strength to walk away.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Now you’re at the stairs near your block, finally sitting and breathing.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You pull out your phone and call Debbie.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Em?! Why did you disappear?! Where are you?!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Near my void deck. Aaron was waiting for me... I stood up to him. Told him we needed help. Then I left.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "There’s a pause.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "I’m coming.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario5",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You hear footsteps, and for a moment, fear grips you.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "What if it’s him?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You look up — and it’s Debbie. She pulls you into a tight hug. And that’s when it hits.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Everything. Your body starts shaking, and the tears come – loud, messy, unstoppable.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You didn’t cry when he grabbed your arm.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Or when you told him he needed help.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But now, with Debbie there, you finally feel safe enough to.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario5_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Later, the sobs fade. You pull away, wiping your face.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(softly): What he said was true... Its my fault. I made it worse, I should have listened to him.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Em... None of this is your fault.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "He was just upset... I shouldn’t have pushed.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You shake your head, already reaching for your bag.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Compact mirror and concealer. You dab your cheek and fix your hair.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I just want to go home and pretend this didn’t happen.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Come to my place Em, stop pushing me away.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You don’t answer. You just keep blending, as if it will all go away if you covered enough.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario5_Negative_1",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "(shouting): EMMA! OPEN THE DOOR!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You lock yourself in your room. He's yelling, threatening and pounding on the door now. Saying things you never thought he'd say.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your hands tremble as you reach for your phone.And finally — finally — you let yourself ask.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(texting): Please help me Debbie... I’m hiding in my bedroom. Aaron is here.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario5_Negative_2",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "You think you can just leave me?!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You press your back to the door, then suddenly you hear a voice outside.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Emma? I’m here.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then — sirens. The banging stops. Footsteps. Shouting.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 4,
+        "narrative": "Step away from the door! Hands up!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Silence. Then a knock.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "(softly): It’s over. He can’t hurt you anymore.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You unlock the door.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She’s there. And this time — You’re not alone.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario5_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You don’t know how long you cried. Debbie never let go. Eventually, the sobs quiet and your breathing steadies.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(softly): It’s been bad for a while.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "He checks my phone. Tracks where I go. Says it’s love and it's for my own good... But it never felt that way.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Debbie doesn’t speak — just listens.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "After a minute, she helps you up.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Let's go over to my place. Tell your parents you're staying over.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario6",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You're back at Debbie's place. You take a sip of water.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then the words come - the yelling, the bruises he called 'accidents', and the fear you had to feel everyday.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And how, tonight, you found the courage to tell him it had to stop.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Debbie says nothing. She just listens.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(softly): I told him to get help. I'm done waiting. What he does with it is up to him.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You glance down at your phone.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Maybe one day, if we've both changed... But right now, I need to choose me.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Debbie nods and hands you her phone. The helpline number is already keyed in.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Maybe... It’s time for you to start healing too.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Emma",
+    "scenario": "Scenario6_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 1,
+        "narrative": "(quietly, but steady): Hello... I need help. I think I’m in an abusive relationship.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "There’s a pause. A calm voice answers.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "finish",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "If you’ve come to see that your actions are hurting someone you love, know that it doesn’t have to stay this way.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "There are healthier ways to deal with conflict and emotions. Change starts with you.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Intro",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "You've got some free time and just want to hang out with your girlfriend today.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Emma’s turned down dinner three times this week, offering no explanations.",
+        "ImageId": "Aaron_1_scenario1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Just a bunch of excuses...",
+        "ImageId": "Aaron_1_scenario1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You’re not angry yet, but something feels really off.",
+        "ImageId": "Aaron_1_scenario1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You’ve waited for her at the park. When you see her approaching, you step out.",
+        "ImageId": "Aaron_1_scenario1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario1_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "(frustrated): Emma where have you been?!",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "It’s been three nights in a row! If that’s not avoiding me, then what is it?",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(taken aback): Aaron... It’s not like that. I’ve just been slammed with training.",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "<b>DON’T LIE TO ME! TOO BUSY FOR A TEXT?!</b>",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma looks down in silence. No effort to make any explanations at all.",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Something in you snaps. You keep going, unable to control your anger.",
+        "ImageId": "Aaron_3_scenario1_negative1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario1_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "You haven’t been replying much. I’ve been trying to check in, but... I don’t know.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "I feel like I barely see you anymore.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(sighs): I’m not avoiding you, Aaron. Nationals are coming.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Floorball’s been eating all my time. I'm just... exhausted.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "You could’ve told me. I wouldn’t have been so worried.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(softly): I know. I’m sorry. I’ll try to be better at saying what I need.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She reaches for your hand. You let her.",
+        "ImageId": "Aaron_2_scenario1_ positive1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario2",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "It's barely 8am, and your Saturday’s already ruined.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma has ignored your calls without any explanations again.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Suddenly your phone buzzes. For a split second lifts, maybe it’s her!",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But it’s not, it’s Debbie. Of course, she’s always meddling.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 0,
+        "narrative": "What the hell is this?!",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stare at the attached screenshot.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It’s your conversations with Emma.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You don’t know what stings more — Emma’s silence or Debbie’s judgement.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You told yourself things were fine.",
+        "ImageId": "Aaron_4_scenario2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "But now? You’re not so sure anymore.",
+        "ImageId": "Aaron_4_scenario2_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario3",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "Self explanatory",
+        "ImageId": "Aaron_5_scenario3_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario3_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You hit call. It rings once, then twice.",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Finally she picks up.",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "I saw your story.",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "(hesitant): Aaron, I didn’t mean—",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Didn’t mean? What were you thinking?",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Now everyone thinks I’m the monster, and you’re just the innocent girl.",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I was venting... I didn’t name anyone.",
+        "ImageId": "Aaron_6_scenario3_negative1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "(voice rising): People know. Debbie messaged me — disappointed. What did you say to her?",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Your solution is turning our relationship into a public pity party?!",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Before Emma could answer, you hang up the call in frustration.",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario3_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "(typing): You know what, Debbie? This is between me and Emma.",
+        "ImageId": "Aaron_7_scenario3_positive 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "It's personal, and I would like to keep it that way.",
+        "ImageId": "Aaron_7_scenario3_positive 1_0"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Emma is my friend! I won't let you talk to her this way!",
+        "ImageId": "Aaron_7_scenario3_positive 1_0"
+      },
+      {
+        "playerID": 0,
+        "narrative": "You stare at the screenshot again. And suddenly, the silence feels heavier than before.",
+        "ImageId": "Aaron_7_scenario3_positive 1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario4",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You’re pacing outside Emma’s house. You have a bouquet of white daisies in your hand.",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You remember how much she likes them, a small peace offering for being such a jerk.",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "I shouldn’t have lost my temper at what she posted, I should have given her time some to cool down.",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You’ve been knocking the door for 30 minutes.",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Em, are you home? Please...",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Is she still mad? Is she even home?",
+        "ImageId": "Aaron_8_scenario4_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You don’t know that she’s in fact at Debbie’s birthday party.",
+        "ImageId": "Aaron_8_scenario4_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario4_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You open her chat. There are no new messages and replies.",
+        "ImageId": "Aaron_10_scenario4_ negative 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Are you ignoring me on purpose? Just say something. Anything.",
+        "ImageId": "Aaron_10_scenario4_ negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Message sent. You call relentlessly, no answer.",
+        "ImageId": "Aaron_10_scenario4_ negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You grip your phone harder and your jaw clenches.",
+        "ImageId": "Aaron_10_scenario4_ negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She better have a good explaination for disappearing.",
+        "ImageId": "Aaron_10_scenario4_ negative 1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario4_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You open Lucas’ chat. Your thumbs hover, then type.",
+        "ImageId": "Aaron_9_scenario4_positive 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Bro... I think I messed up. I yelled at Emma and said some hard words over text... What do I do?",
+        "ImageId": "Aaron_9_scenario4_positive 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "He replies almost instantly.",
+        "ImageId": "Aaron_9_scenario4_positive 1_0"
+      },
+      {
+        "playerID": 5,
+        "narrative": "You need to back off and give her space. Flowers won’t fix this.",
+        "ImageId": "Aaron_9_scenario4_positive 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You stare at the screen. The daisies feel heavier in your hand.",
+        "ImageId": "Aaron_9_scenario4_positive 1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario5",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You sit on the curb, flowers by your feet.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "They’ve started to wilt. Or maybe that’s just how they’ve always looked.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Lucas was right. Emma isn’t here. And she isn’t answering.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You scroll through old texts.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Look at the way she used to talk to you... When she laughed at your jokes... And how she shared her secrets with you.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Then... The way she stopped.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Something inside you twists. You start walking. No destination. Just... Anywhere but here.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "And then — You see her. Down by the void deck. Alone. Standing in the orange light.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma.",
+        "ImageId": "Aaron_11_scenario5_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It’s time for some answers.",
+        "ImageId": "Aaron_11_scenario5_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario5_Negative",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "(growling): Em... I waited all night. I just wanted to fix things. Where were you?",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I was at Debbie’s party.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "So while I stood here, you were out having fun? With other people?",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "No, Aaron — It wasn’t like that. I —",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "The words blur. It’s Debbie, always Debbie. She won’t meet your eyes.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Is she laughing behind my back?",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Your anger takes over. SLAP.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She flinches. Hand to her cheek. Staring at you.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You freeze. Embarrassed. Shaken. Still burning.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "(cold): You’re pathetic.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You turn and leave.",
+        "ImageId": "Aaron_14_scenario5_negative 1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario5_Negative_1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "You wake the next morning with a pit in your stomach, the events of last night replaying and how you walked off like it was over.",
+        "ImageId": "Aaron_15_scenario5_negative 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "It wasn’t.",
+        "ImageId": "Aaron_15_scenario5_negative 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Just as you were starting to gather yourself, an email from the school counceller lands in your inbox.",
+        "ImageId": "None"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You hold your breath.",
+        "ImageId": "Aaron_15_scenario5_negative 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "First Emma tells Debbie, now she tells the school counsellor? You've got to be kidding me.",
+        "ImageId": "Aaron_15_scenario5_negative 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Uncontrollable rage courses through you, and before you know it, you’re outside Emma’s house pounding on her door.",
+        "ImageId": "Aaron_15_scenario5_negative 2_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario5_Negative_2",
+    "narrativeConversations": [
+      {
+        "playerID": 1,
+        "narrative": "Aaron..what are you doing here?",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "The casual tone sets you off. How could she act like nothing happened?",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "You think this is nothing? You ruined my life Emma.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She tries to calm you, but you're too far gone. You shove her to the floor, slap, then punch.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She cries, running to her room, slamming the door.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You follow, banging on it.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "Open the door, Emma! Don't walk away from me!",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Suddenly a pair of hands grab you, its Debbie.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 0,
+        "narrative": "Stay away from her Aaron! I've called the police!",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "In a split second, you find yourself pinned down on the floor with handcuffs.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You blink.",
+        "ImageId": "Aaron_16_scenario5_negative 3_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "How did it come to this?",
+        "ImageId": "None"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "Scenario5_Positive",
+    "narrativeConversations": [
+      {
+        "playerID": 2,
+        "narrative": "EMMA! You owe me an explanation. I’m not leaving without one.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I felt suffocated, Aaron. I went to Debbie’s party because I needed space. Why is that so hard to trust?",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "I don’t trust the people around you! Not you!",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Emma takes a breath.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "I can’t do this anymore. I can’t be with someone who won’t own his faults.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "You need help. You freeze. Everything flashed in your mind — your choices, your outbursts — and she was right.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 2,
+        "narrative": "(quietly): If I get help... Will you stay?",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "She meets your eyes. Calm. Steady.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      },
+      {
+        "playerID": 1,
+        "narrative": "Prove it.",
+        "ImageId": "Aaron_12_scenario5_positive 1_0"
+      }
+    ]
+  },
+  {
+    "id": "Aaron",
+    "scenario": "scenario5_Positive_1",
+    "narrativeConversations": [
+      {
+        "playerID": 3,
+        "narrative": "It’s been six months, and the counselling has made a world of difference.",
+        "ImageId": "Aaron_13_scenario5_positive 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "You and Emma have broken up, but somehow, you’ve managed to stay friends.",
+        "ImageId": "Aaron_13_scenario5_positive 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "As you sit across from her, sipping your milkshake, a thought lingers...",
+        "ImageId": "Aaron_13_scenario5_positive 2_0"
+      },
+      {
+        "playerID": 3,
+        "narrative": "Could she ever give you another chance?",
+        "ImageId": "Aaron_13_scenario5_positive 2_0"
+      }
+    ]
+  },
+  {
+    "id": "Lucas",
+    "scenario": "",
+    "narrativeConversations": []
+  },
+  {
+    "id": "Police",
+    "scenario": "",
+    "narrativeConversations": []
+  }
+]
